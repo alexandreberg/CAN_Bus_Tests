@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "MCP2515_Arduino_UNO_simple_two_node_CAN_Network_Transmitter_Node",
+			"path": "MCP2515_Arduino_UNO_simple_two_node_CAN_Network_Transmitter_Node"
+		},
+		{
+			"name": "MCP2515_Arduino_UNO_simple_two_node_CAN_Network_Receiver_Node",
+			"path": "MCP2515_Arduino_UNO_simple_two_node_CAN_Network_Receiver_Node"
+		}
+	],
+	"settings": {}
+}
