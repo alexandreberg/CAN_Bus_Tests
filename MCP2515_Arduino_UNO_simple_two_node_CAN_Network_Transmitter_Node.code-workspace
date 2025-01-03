@@ -10,6 +10,10 @@
 		{
 			"name": "MCP2515_Arduino_UNO_simple_two_node_CAN_Network_Receiver_Node",
 			"path": "MCP2515_Arduino_UNO_simple_two_node_CAN_Network_Receiver_Node"
+		},
+		{
+			"name": "ESP32-WCMCU230_CAN_Module-Transmitter",
+			"path": "ESP32-WCMCU230_CAN_Module-Transmitter"
 		}
 	],
 	"settings": {}
